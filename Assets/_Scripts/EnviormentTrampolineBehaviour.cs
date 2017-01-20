@@ -3,38 +3,57 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityStandardAssets._2D;
 
-public class EnviormentTrampolineBehaviour : MonoBehaviour {
-
-
-    private PlatformerCharacter2D m_Character;
-
-    // Use this for initialization
-    void Start ()
-    {
-        m_Character = GameObject.FindGameObjectWithTag("Player").GetComponent<PlatformerCharacter2D>();
-
-    }
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
-
+public class EnviormentTrampolineBehaviour : MonoBehaviour
+{
+    public float upforce;
+    private PlatformerCharacter2D m_Char;
+    private Rigidbody2D body;
+    private PlatformEffector2D effector;
+    private bool _playerIntrigger;
     private void OnCollisionEnter2D(Collision2D other)
     {
-        if(other.collider.tag == "Player")
+
+        if (other.collider.tag == "Player")
         {
-            m_Character.Move(0.4f, false, true);
-            InvokeRepeating("MovePlayer", 1f, 1f);
+            _playerIntrigger = true;
+            m_Char = other.gameObject.GetComponent<PlatformerCharacter2D>();
+            body = other.gameObject.GetComponent<Rigidbody2D>();
 
-
+        }
+        if (other.collider.tag == "Moveable")
+        {
+            other.rigidbody.MoveRotation(Random.Range(0f, 10f));
+            other.rigidbody.AddForce(new Vector2(Random.Range(-10f, 10f), 100f));
         }
 
     }
 
-    private void MovePlayer()
+    private void Update()
     {
-        m_Character.Move(10f, false, false);
+        if (_playerIntrigger)
+        {
+            if (_playerIntrigger && Mathf.Abs(body.velocity.y) < Mathf.Epsilon)
+            {
+                m_Char.TrampolineJump(upforce);
+                GetComponent<AudioSource>().Play();
+            }
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D other)
+    {
+        if (other.collider.tag == "Player")
+        {
+            _playerIntrigger = false;
+        }
+    }
+
+    private void Start()
+    {
+        GetComponentInChildren<Animator>().SetFloat("offset", Random.Range(0, 1f));
+      //  GetComponentInChildren<>();
+
+
     }
 
     /*

@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class CameraLimiter : MonoBehaviour
 {
-    public int X;
-    public int Y;
+    public float X;
+    public float Y;
     private float _cxMin;
     private float _cyMin;
     private float _cxMax;
@@ -24,4 +24,5 @@ public class CameraLimiter : MonoBehaviour
     {
         transform.position = new Vector3(Mathf.Clamp(transform.position.x, _cxMin, _cxMax), Mathf.Clamp(transform.position.y, _cyMin, _cyMax), -10f);
     }
+   
 }

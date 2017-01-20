@@ -1,0 +1,2745 @@
+fileFormatVersion: 2
+guid: 319908fbee4fe1a42841ee9fc3bbe01a
+timeCreated: 1484767121
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mickeysheet_0
+    21300002: Mickey_idle
+    21300004: Mickeysheet_2
+    21300006: Mickeysheet_3
+    21300008: Mickeysheet_4
+    21300010: Mickeysheet_5
+    21300012: Mickeysheet_6
+    21300014: Mickeysheet_7
+    21300016: Mickeysheet_8
+    21300018: Mickeysheet_9
+    21300020: Mickeysheet_10
+    21300022: Mickeysheet_11
+    21300024: Mickeysheet_12
+    21300026: Mickeysheet_13
+    21300028: Mickeysheet_14
+    21300030: Mickeysheet_15
+    21300032: Mickeysheet_16
+    21300034: Mickeysheet_17
+    21300036: Mickeysheet_18
+    21300038: Mickeysheet_19
+    21300040: Mickeysheet_20
+    21300042: Mickeysheet_21
+    21300044: Mickeysheet_22
+    21300046: Mickeysheet_23
+    21300048: Mickeysheet_24
+    21300050: Mickeysheet_25
+    21300052: Mickeysheet_26
+    21300054: Mickeysheet_27
+    21300056: Mickeysheet_28
+    21300058: Mickeysheet_29
+    21300060: Mickeysheet_30
+    21300062: Mickeysheet_31
+    21300064: Mickeysheet_32
+    21300066: Mickeysheet_33
+    21300068: Mickeysheet_34
+    21300070: Mickeysheet_35
+    21300072: Mickeysheet_36
+    21300074: Mickeysheet_37
+    21300076: Mickeysheet_38
+    21300078: Mickeysheet_39
+    21300080: Mickeysheet_40
+    21300082: Mickeysheet_41
+    21300084: Mickeysheet_42
+    21300086: Mickeysheet_43
+    21300088: Mickeysheet_44
+    21300090: Mickeysheet_45
+    21300092: Mickeysheet_46
+    21300094: Mickeysheet_47
+    21300096: Mickeysheet_48
+    21300098: Mickey_jump_2
+    21300100: Mickey_jump_3
+    21300102: Mickey_jump_4
+    21300104: Mickey_jump_5
+    21300106: Mickey_jump_6
+    21300108: Mickey_jump_1
+    21300110: Mickey_jump_7
+    21300112: Mickey_jump_8
+    21300114: Mickeysheet_57
+    21300116: Mickey_jump_9
+    21300118: Mickey_jump_10
+    21300120: Mickey_jump_11
+    21300122: Mickey_jump2_2
+    21300124: Mickey_jump2_3
+    21300126: Mickey_jump2_4
+    21300128: Mickey_jump2_5
+    21300130: Mickey_jump2_6
+    21300132: Mickey_jump2_7
+    21300134: Mickey_jump2_8
+    21300136: Mickey_jump2_9
+    21300138: Mickey_jump2_10
+    21300140: Mickey_jump2_1
+    21300142: Mickey_jump2_11
+    21300144: Mickey_jump2_12
+    21300146: Mickeysheet_74
+    21300148: Mickeysheet_75
+    21300150: Mickeysheet_76
+    21300152: Mickeysheet_77
+    21300154: Mickeysheet_78
+    21300156: Mickeysheet_79
+    21300158: Mickeysheet_80
+    21300160: Mickeysheet_81
+    21300162: Mickeysheet_82
+    21300164: Mickeysheet_83
+    21300166: Mickeysheet_84
+    21300168: Mickeysheet_85
+    21300170: Mickeysheet_86
+    21300172: Mickeysheet_87
+    21300174: Mickeysheet_88
+    21300176: Mickeysheet_89
+    21300178: Mickeysheet_90
+    21300180: Mickeysheet_91
+    21300182: Mickeysheet_92
+    21300184: Mickeysheet_93
+    21300186: Mickeysheet_94
+    21300188: Mickeysheet_95
+    21300190: Mickeysheet_96
+    21300192: Mickeysheet_97
+    21300194: Mickeysheet_98
+    21300196: Mickeysheet_99
+    21300198: Mickeysheet_100
+    21300200: Mickeysheet_101
+    21300202: Mickeysheet_102
+    21300204: Mickeysheet_103
+    21300206: Mickeysheet_104
+    21300208: Mickeysheet_105
+    21300210: Mickeysheet_106
+    21300212: Mickeysheet_107
+    21300214: Mickeysheet_108
+    21300216: Mickeysheet_109
+    21300218: Mickeysheet_110
+    21300220: Mickeysheet_111
+    21300222: Mickeysheet_112
+    21300224: Mickeysheet_113
+    21300226: Mickeysheet_114
+    21300228: Mickeysheet_115
+    21300230: Mickeysheet_116
+    21300232: Mickeysheet_117
+    21300234: Mickeysheet_118
+    21300236: Mickeysheet_119
+    21300238: Mickeysheet_120
+    21300240: Mickeysheet_121
+    21300242: Mickeysheet_122
+    21300244: Mickeysheet_123
+    21300246: Mickeysheet_124
+    21300248: Mickeysheet_125
+    21300250: Mickeysheet_126
+    21300252: Mickeysheet_127
+    21300254: Mickeysheet_128
+    21300256: Mickeysheet_129
+    21300258: Mickeysheet_130
+    21300260: Mickeysheet_131
+    21300262: Mickeysheet_132
+    21300264: Mickeysheet_133
+    21300266: Mickeysheet_134
+    21300268: Mickeysheet_135
+    21300270: Mickeysheet_136
+    21300272: Mickeysheet_137
+    21300274: Mickeysheet_138
+    21300276: Mickeysheet_139
+    21300278: Mickeysheet_140
+    21300280: Mickeysheet_141
+    21300282: Mickeysheet_142
+    21300284: Mickeysheet_143
+    21300286: Mickeysheet_144
+    21300288: Mickeysheet_145
+    21300290: Mickeysheet_146
+    21300292: Mickeysheet_147
+    21300294: Mickeysheet_148
+    21300296: Mickeysheet_149
+    21300298: Mickeysheet_150
+    21300300: Mickeysheet_151
+    21300302: Mickeysheet_152
+    21300304: Mickeysheet_153
+    21300306: Mickeysheet_154
+    21300308: Mickeysheet_155
+    21300310: Mickeysheet_156
+    21300312: Mickeysheet_157
+    21300314: Mickeysheet_158
+    21300316: Mickeysheet_159
+    21300318: Mickeysheet_160
+    21300320: Mickeysheet_161
+    21300322: Mickeysheet_162
+    21300324: Mickeysheet_163
+    21300326: Mickeysheet_164
+    21300328: Mickeysheet_165
+    21300330: Mickeysheet_166
+    21300332: Mickeysheet_167
+    21300334: Mickeysheet_168
+    21300336: Mickeysheet_169
+    21300338: Mickeysheet_170
+    21300340: Mickeysheet_171
+    21300342: Mickeysheet_172
+    21300344: Mickeysheet_173
+    21300346: Mickeysheet_174
+    21300348: Mickeysheet_175
+    21300350: Mickeysheet_176
+    21300352: Mickeysheet_177
+    21300354: Mickeysheet_178
+    21300356: Mickeysheet_179
+    21300358: Mickeysheet_180
+    21300360: Mickeysheet_181
+    21300362: Mickeysheet_182
+    21300364: Mickeysheet_183
+    21300366: Mickeysheet_184
+    21300368: Mickeysheet_185
+    21300370: Mickeysheet_186
+    21300372: Mickeysheet_187
+    21300374: Mickeysheet_188
+    21300376: Mickeysheet_189
+    21300378: Mickeysheet_190
+    21300380: Mickeysheet_191
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mickeysheet_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2906
+        width: 259
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_idle
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 3073
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3092
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_3
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 3093
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 3093
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 3094
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_6
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 3093
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_7
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3085
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_8
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3086
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_9
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 3067
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_10
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3067
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_11
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 3065
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_12
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2996
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2998
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2998
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_15
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 2995
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_16
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2995
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_17
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2996
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_18
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2993
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2933
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_20
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2933
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_21
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2932
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_22
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2930
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_23
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2931
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_24
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2933
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_25
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2932
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_26
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2930
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_27
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2932
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2842
+        width: 156
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2871
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2871
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_31
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2872
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_32
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2874
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_33
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2872
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_34
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2871
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_35
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2871
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_36
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2874
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_37
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2790
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2787
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2781
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_40
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2779
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2779
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_42
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2782
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_43
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2779
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_44
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2780
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_45
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2779
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_46
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2777
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_47
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2779
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_48
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2777
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2663
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2689
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2709
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2687
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2661
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2607
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2637
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump_8
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2614
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2605
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump_10
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2602
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump_11
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2600
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump2_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2479
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump2_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2513
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump2_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2523
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump2_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2525
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump2_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2522
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump2_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2511
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump2_8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2504
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump2_9
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2499
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump2_10
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2482
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump2_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2456
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump2_11
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 2458
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickey_jump2_12
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2458
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_74
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2370
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_75
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2367
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_76
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2364
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_77
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2369
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_78
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2367
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_79
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2285
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_80
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2285
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_81
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2285
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_82
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2285
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_83
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2288
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_84
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2286
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_85
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2312
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_86
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2311
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_87
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2309
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_88
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2308
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_89
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2306
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_90
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2302
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_91
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2300
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_92
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2299
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_93
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2216
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_94
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2217
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_95
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2218
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_96
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2216
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_97
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2214
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_98
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2217
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_99
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2214
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_100
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2217
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_101
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2149
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_102
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2147
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_103
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2146
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_104
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2149
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_105
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2156
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_106
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2060
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_107
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2064
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_108
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2057
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_109
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2074
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_110
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2054
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_111
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2077
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_112
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2054
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_113
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2074
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_114
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2048
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_115
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2075
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_116
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2052
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_117
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1967
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_118
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1979
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_119
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1967
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_120
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1963
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_121
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1964
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_122
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1959
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_123
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1979
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_124
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1976
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_125
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1976
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_126
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1976
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1870
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_128
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1863
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_129
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1875
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_130
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1922
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_131
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1882
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_132
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1875
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_133
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1881
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_134
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1716
+        width: 118
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_135
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1707
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_136
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1679
+        width: 104
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_137
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1650
+        width: 102
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_138
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1652
+        width: 69
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_139
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1430
+        width: 48
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_140
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1427
+        width: 41
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_141
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1442
+        width: 76
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_142
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1468
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_143
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1500
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_144
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1512
+        width: 113
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_145
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1303
+        width: 115
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_146
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1320
+        width: 116
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_147
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1298
+        width: 70
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_148
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1339
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_149
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1324
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_150
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1182
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_151
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1182
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_152
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1180
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_153
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1186
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_154
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1182
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_155
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1182
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_156
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1182
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_157
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1180
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_158
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1110
+        width: 70
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_159
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 910
+        width: 159
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_160
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 912
+        width: 171
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_161
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 913
+        width: 180
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_162
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 913
+        width: 171
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_163
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 911
+        width: 176
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_164
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 711
+        width: 178
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_165
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 734
+        width: 176
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_166
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 720
+        width: 173
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_167
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 721
+        width: 172
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_168
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 718
+        width: 173
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_169
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 550
+        width: 177
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_170
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 564
+        width: 178
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_171
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 556
+        width: 179
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_172
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 552
+        width: 172
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 165
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_174
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 411
+        width: 162
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_175
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 428
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_176
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 428
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_177
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 409
+        width: 105
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_178
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 333
+        width: 174
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_179
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 362
+        width: 157
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_180
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 195
+        width: 157
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_181
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 275
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_182
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 190
+        width: 137
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_183
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 189
+        width: 131
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_184
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_185
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 238
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_186
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 181
+        width: 148
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_187
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 19
+        width: 118
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_188
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 27
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_189
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 45
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_190
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 7
+        width: 142
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mickeysheet_191
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 15
+        width: 174
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
